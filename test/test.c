@@ -8,7 +8,6 @@ int main(int argc, char const *argv[])
     printf("str[] = %s\n",str);
     system("pause");
     return 0;
-    
 }
 //str[b++] = 'a';str[b++] = 'b';str[b++] = 'd';str[b++] = 'f';
 void abc(char *str)// abdef
